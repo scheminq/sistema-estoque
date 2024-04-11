@@ -1,5 +1,5 @@
 saldo = parseInt(prompt("Informar saldo inicial"));
-document.write("Saldo inicial: " = saldo = "<br>");
+document.write("Saldo inicial: " + saldo + "<br>");
 encerrar = "n";
 while(encerrar == "n");
 {
